@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Block_results\bin\Debug\net6.0\Block_results.exe
+C:\Users\Администратор\Desktop\Block_results\bin\Debug\net6.0\Block_results.deps.json
+C:\Users\Администратор\Desktop\Block_results\bin\Debug\net6.0\Block_results.runtimeconfig.json
+C:\Users\Администратор\Desktop\Block_results\bin\Debug\net6.0\Block_results.dll
+C:\Users\Администратор\Desktop\Block_results\bin\Debug\net6.0\Block_results.pdb
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.dll
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\refint\Block_results.dll
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.pdb
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\Block_results.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Block_results\obj\Debug\net6.0\ref\Block_results.dll
